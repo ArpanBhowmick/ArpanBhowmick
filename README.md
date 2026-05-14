@@ -4,7 +4,7 @@
 
 ### Frontend Engineer • React Developer • Next.js Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+Developer;Building+Modern+Interactive+Experiences;GSAP+%7C+Framer+Motion+Animations;Full+Stack+JavaScript+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+Developer;Building+Modern+Interactive+Experiences;GSAP+%7C+Framer+Motion+Animations;Full+Stack+Developer" />
 
 <br/>
 
@@ -28,7 +28,6 @@ I specialize in creating smooth user experiences, responsive interfaces, and ani
 
 Currently, I'm focused on improving my frontend architecture skills, building production-level applications, and creating web experiences that combine performance with modern UI/UX design.
 
-```js
 const hexagon = {
   currentRole: "Frontend Engineer",
 
@@ -48,7 +47,6 @@ const hexagon = {
 
   funFact: "I love building interfaces that feel alive ⚡"
 };
-````
 
 ---
 
@@ -56,15 +54,15 @@ const hexagon = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ArpanBhowmick">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/arpan-bhowmick28">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:arpanbhowmick28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
