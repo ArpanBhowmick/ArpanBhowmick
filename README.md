@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hexagon
+# 👨‍💻 Arpan
 
 ### Frontend Engineer • React Developer • Next.js Enthusiast
 
